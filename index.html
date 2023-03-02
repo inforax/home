@@ -1,25 +1,24 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>HTML5 File API</title>
-  <link rel="stylesheet" href="style.css" />
+  <meta charset="utf-8">
+  <title>load demo</title>
+  <style>
+  body {
+    font-size: 12px;
+    font-family: Arial;
+  }
+  </style>
+  <script src="https://code.jquery.com/jquery-3.6.3.js"></script>
 </head>
 <body>
-  <div id="main">
-    <h1>Upload Your Images</h1>
-    <form method="post" enctype="multipart/form-data"  action="upload.php">
-      <input type="file" name="images" id="images" multiple />
-      <button type="submit" id="btn">Upload Files!</button>
-    </form>
  
-    <div id="response"></div>
-    <ul id="image-list">
+<b>Projects:</b>
+<ol id="new-projects"></ol>
  
-    </ul>
-  </div>
+<script>
+$( "#new-projects" ).load( "name.html" );
+</script>
  
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
-  <script src="upload.js"></script>
 </body>
 </html>
