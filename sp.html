@@ -7,7 +7,6 @@
 <script>
 function pluginSearch() {
 	var text = document.getElementById("jspluginSearchText").value;
-	console.log('search...');
 	//window.open('https://inforax.com/'+'search/'+text, '_self');
 	return false;
 }
@@ -15,6 +14,7 @@ function pluginSearch() {
 	document.getElementById("jspluginSearchText").onkeypress = function(e) {
 		if (!e) e = window.event;
 		var keyCode = e.keyCode || e.which;
+		console.log('search...');
 		if (keyCode == '13'){
 			pluginSearch();
 			return false;
