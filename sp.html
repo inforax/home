@@ -1,0 +1,24 @@
+<div class="plugin plugin-search">
+	<h2 class="plugin-label">Search</h2>
+	<div class="plugin-content">
+		<input type="text" id="jspluginSearchText" placeholder="doesnt work yet" />
+	</div>
+</div>
+
+<script>
+function pluginSearch() {
+	var text = document.getElementById("jspluginSearchText").value;
+	console.log('search...');
+	//window.open('https://inforax.com/'+'search/'+text, '_self');
+	return false;
+}
+
+	document.getElementById("jspluginSearchText").onkeypress = function(e) {
+		if (!e) e = window.event;
+		var keyCode = e.keyCode || e.which;
+		if (keyCode == '13'){
+			pluginSearch();
+			return false;
+		}
+	}
+</script>
