@@ -973,28 +973,8 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 		<!-- Breaked content -->
 		<p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 0px 0px 1.25em; color: #374151; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; white-space: pre-wrap; background-color: #f7f7f8;">Для записи данных в файл в формате JSON на PHP, можно использовать функцию <code style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; font-family: 'Söhne Mono', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important; font-size: 0.875em; color: var(--tw-prose-code); font-weight: 600;">json_encode</code> для преобразования данных в формат JSON, а затем функцию <code style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; font-family: 'Söhne Mono', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important; font-size: 0.875em; color: var(--tw-prose-code); font-weight: 600;">file_put_contents</code> для сохранения данных в файл.</p>
-<p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 1.25em 0px; color: #374151; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; white-space: pre-wrap; background-color: #f7f7f8;">Например, предположим, что у нас есть массив данных, который мы хотим сохранить в файл с именем <code style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; font-family: 'Söhne Mono', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important; font-size: 0.875em; color: var(--tw-prose-code); font-weight: 600;">data.json</code>. Мы можем использовать следующий код:</p>
-<div style="color: #f8f8f2; background-color: #272822; font-family: Consolas, 'Courier New', monospace; line-height: 22px; white-space: pre;">
-<div>$<span style="color: #f92672;">data</span> = array(</div>
-<div><span style="color: #e6db74;">'name'</span> =&gt; <span style="color: #e6db74;">'John Smith'</span>,</div>
-<div><span style="color: #e6db74;">'email'</span> =&gt; <span style="color: #e6db74;">'john@example.com'</span>,</div>
-<div><span style="color: #e6db74;">'age'</span> =&gt; 30</div>
-<div>)<span style="color: #88846f;">; </span></div>
-<br>
-<div>// преобразовываем массив данных в формат JSON</div>
-<div>$<span style="color: #f92672;">json_data</span> = json_encode($data)<span style="color: #88846f;">; </span></div>
-<br>
-<div>// сохраняем данные в файл</div>
-<div>file_put_contents(<span style="color: #e6db74;">'data.json'</span>, $json_data)<span style="color: #88846f;">;</span></div>
-</div>
-<p style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; margin: 1.25em 0px; color: #374151; font-family: Söhne, ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Roboto, Ubuntu, Cantarell, 'Noto Sans', sans-serif, 'Helvetica Neue', Arial, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; white-space: pre-wrap; background-color: #f7f7f8;">После выполнения этого кода, данные будут сохранены в файл <code style="border: 0px solid #d9d9e3; box-sizing: border-box; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 transparent; --tw-ring-shadow: 0 0 transparent; --tw-shadow: 0 0 transparent; --tw-shadow-colored: 0 0 transparent; font-family: 'Söhne Mono', Monaco, 'Andale Mono', 'Ubuntu Mono', monospace !important; font-size: 0.875em; color: var(--tw-prose-code); font-weight: 600;">data.json</code> в формате JSON. Если файл не существует, он будет создан. Если файл уже существует, он будет перезаписа</p>
-<p></p>
-<p>Иногда хочется взглянуть, что там такого происходит с переменными в момент работы программы. Мой вариант – записать в файл.<br><!--more--></p>
-<p>Вот простой кусок кода:</p>
-<blockquote>
-<p>$text = “some text”;</p>
-<p>$fp = fopen(‘results.json’, ‘w’);<br>fwrite($fp, json_encode($text));<br>fclose($fp);</p>
-</blockquote>
+
+
 		<!-- "Read more" button -->
 		<!-- -->
 
@@ -1342,11 +1322,7 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 			<!-- Right Sidebar -->
 			<div class="col-md-3">
 			<div w3-include-html="cats.html"></div>
-<div w3-include-html="latest.html">
-<script>
-   w3IncludeHTML();
-</script>
-</div>
+<div w3-include-html="latest.html"></div>
 <div class="plugin plugin-tags"></div>
 
 <div w3-include-html="about.html">
