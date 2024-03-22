@@ -1,6 +1,6 @@
 
-let component = document.getElementById("footer");
-component.innerHTML = `
+let footer = document.getElementById("footer");
+footer.innerHTML = `
  <div class="container">
   <p
    class="m-0 text-center text-white text-uppercase">Copyright

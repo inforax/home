@@ -1,6 +1,118 @@
-let content = document.getElementById("content");
-content.innerHTML = `
-<div class="row">
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport"
+			content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+		<!-- Put this script tag to the <head> of your page -->
+		<script type="text/javascript" src="https://vk.com/js/api/share.js?95"
+			charset="windows-1251"></script>
+
+		<!-- Title tag -->
+		<title>Научимся программировать вместе! | INFORAX 2009 - 2024</title>
+
+		<!-- Meta description tag -->
+		<meta name="description"
+			content="Помощь разработчику. Полезные программы для вебразработки.">
+		<!-- Meta keywords tag -->
+		<meta name="keywords"
+			content="clone repo to current folder, generate ssh key putty">
+		<!-- Include Favicon  -->
+		<link rel="icon" href="favicon.ico" type="image/x-icon">
+
+		<!-- Include Bootstrap CSS file bootstrap.css -->
+		<link rel="stylesheet" type="text/css" href="bl-kernel/css/bootstrap.min.css">
+
+		<!-- Include CSS Styles from this theme -->
+		<link rel="stylesheet" type="text/css" href="bl-themes/blogx/css/style.css">
+
+		<!-- Load Bludit Plugins: Site head -->
+		<link rel="canonical" href="index" />
+
+		<script src="https://www.w3schools.com/lib/w3data.js"></script>
+		<!-- Robots plugin -->
+	</head>
+	<body>
+
+		<!-- Site Body Begin -->
+		<!-- Navbar -->
+		<nav id="navbar"
+			class="navbar navbar-expand-md navbar-dark fixed-top bg-dark text-uppercase">
+			<script src="./components/navbar/navbar.js"></script>
+		</nav>
+
+		<!-- Content -->
+		<div class="container">
+			<div class="row">
+
+				<!-- Blog Posts -->
+				<div class="col-md-9">
+					<!-- Post -->
+					<div class="card my-5 border-0">
+
+						<!-- Load Bludit Plugins: Page Begin -->
+
+						<!-- Cover image -->
+
+						<div class="card-body p-0">
+							<!-- Title -->
+							<a class="text-dark" href="seed-prase">
+								<h2 class="title">Основы криптографии? Что такое исходная фраза?</h2>
+							</a>
+
+							<!-- Creation date -->
+							<h6 class="card-subtitle mb-3 text-muted">27-07-2022</h6>
+
+							<!-- Breaked content -->
+							<p>Хотите изучить основы криптографии? Добро пожаловать в Block by Block.
+								Ответы на этот вопрос: Что такое исходная фраза?</p>
+							<p>
+								<!-- "Read more" button -->
+
+							</div>
+
+							<!-- Load Bludit Plugins: Page End -->
+
+						</div>
+						<hr>
+						<!-- Post -->
+						<div class="card my-5 border-0">
+
+							<!-- Load Bludit Plugins: Page Begin -->
+
+							<!-- Cover image -->
+
+							<div class="card-body p-0">
+								<!-- Title -->
+								<a class="text-dark" href="generate-ssh-key-cpanel">
+									<h2 class="title">Как создать ssh key в панели CPanel</h2>
+								</a>
+
+								<!-- Creation date -->
+								<h6 class="card-subtitle mb-3 text-muted">13-06-2022</h6>
+
+								<!-- Breaked content -->
+								<p>Если выполните шаги инструкции правильно, то сможете создать и
+									скачать файл ssh key, который (если вы на Windows) нужно будет положить
+									в папку C:/Users/Ваш пользователь/.ssh</p>
+								<p>SSH Key - это файл, с с помощью которого вы будете авторизоваться на
+									сервер по ssh. Это наиболее безопасный способ для входа на ваш
+									сервер.</p>
+								<p>
+									<!-- "Read more" button -->
+
+								</div>
+
+								<!-- Load Bludit Plugins: Page End -->
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Content -->
+				<div class="container">
+					<div class="row">
 
 						<!-- Blog Posts -->
 						<div class="col-md-9">
@@ -1525,4 +1637,53 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																									</div>
 																									<hr>
-																								</div>`;
+
+																									<!-- Pagination -->
+																								</div>
+
+																								<!-- Right Sidebar -->
+																								<div class="col-md-3">
+																									<div
+																										w3-include-html="https://inforax.com/cats.html"></div>
+																									<div
+																										w3-include-html="https://inforax.com/latest.html"></div>
+																									<div class="plugin plugin-tags"></div>
+																									<div
+																										w3-include-html="https://inforax.com/about.html"></div>
+																									<script>w3IncludeHTML();</script>
+																								</div>
+																							</div>
+				</div>
+
+<!-- Footer -->
+<footer id="" class="footer bg-dark">
+	<script src="./components/footer.js"></script>
+</footer>
+
+																						<!-- Javascript -->
+																						<script src="bl-kernel/js/jquery.min.js"></script>
+																						<script
+																							src="bl-kernel/js/bootstrap.bundle.min.js"></script>
+
+																						<!-- Site Body End -->
+																						<!-- Yandex.Metrika counter -->
+																						<script type="text/javascript">
+	(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+	m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+	(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+	ym(29786848, "init", {
+	id:29786848,
+	clickmap:true,
+	trackLinks:true,
+	accurateTrackBounce:true,
+	webvisor:false
+	});
+</script>
+																						<noscript><div><img
+																									src="https://mc.yandex.ru/watch/29786848"
+																									style="position:absolute; left:-9999px;"
+																									alt /></div></noscript>
+																						<!-- /Yandex.Metrika counter -->
+																					</body>
+																				</html>
