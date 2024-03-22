@@ -38,7 +38,10 @@ var navbar = {
  }
 };
 
-return navbar;
+let component = document.getElementById("navbar");
+component ? m.mount(component, navbar) : null;
+
+
 /*
 	<div class="container">
 		<a class="navbar-brand" href="index">
