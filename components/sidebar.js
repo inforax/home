@@ -1,7 +1,5 @@
-
-import categories from "categories.js";
 let sidebar = document.getElementById("sidebar");
-console.log(categories);
+
 sidebar.innerHTML = `
 <!-- Right Sidebar -->
 <div class="col-md-3">
