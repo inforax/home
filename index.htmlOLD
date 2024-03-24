@@ -27,7 +27,7 @@
 		<!-- Include CSS Styles from this theme -->
 		<link rel="stylesheet" type="text/css" href="bl-themes/blogx/css/style.css">
 
-		<!-- Load Bludit Plugins: Site head -->
+		<!-- Site head -->
 		<link rel="canonical" href="index" />
 
 		<script src="https://www.w3schools.com/lib/w3data.js"></script>
