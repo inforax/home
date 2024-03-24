@@ -7,7 +7,7 @@ content.innerHTML = `
 							<!-- Post -->
 							<div class="card my-5 border-0">
 
-								<!-- Load Bludit Plugins: Page Begin -->
+								<!-- Page Begin -->
 
 								<!-- Cover image -->
 
@@ -28,14 +28,14 @@ content.innerHTML = `
 
 									</div>
 
-									<!-- Load Bludit Plugins: Page End -->
+									<!-- Page End -->
 
 								</div>
 								<hr>
 								<!-- Post -->
 								<div class="card my-5 border-0">
 
-									<!-- Load Bludit Plugins: Page Begin -->
+									<!-- Page Begin -->
 
 									<!-- Cover image -->
 
@@ -60,14 +60,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -113,14 +113,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -146,14 +146,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -194,14 +194,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -267,14 +267,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -344,14 +344,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -403,14 +403,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -445,14 +445,14 @@ content.innerHTML = `
 
 										</div>
 
-										<!-- Load Bludit Plugins: Page End -->
+										<!-- Page End -->
 
 									</div>
 									<hr>
 									<!-- Post -->
 									<div class="card my-5 border-0">
 
-										<!-- Load Bludit Plugins: Page Begin -->
+										<!-- Page Begin -->
 
 										<!-- Cover image -->
 
@@ -473,14 +473,14 @@ content.innerHTML = `
 
 											</div>
 
-											<!-- Load Bludit Plugins: Page End -->
+											<!-- Page End -->
 
 										</div>
 										<hr>
 										<!-- Post -->
 										<div class="card my-5 border-0">
 
-											<!-- Load Bludit Plugins: Page Begin -->
+											<!-- Page Begin -->
 
 											<!-- Cover image -->
 
@@ -503,14 +503,14 @@ content.innerHTML = `
 
 												</div>
 
-												<!-- Load Bludit Plugins: Page End -->
+												<!-- Page End -->
 
 											</div>
 											<hr>
 											<!-- Post -->
 											<div class="card my-5 border-0">
 
-												<!-- Load Bludit Plugins: Page Begin -->
+												<!-- Page Begin -->
 
 												<!-- Cover image -->
 
@@ -533,14 +533,14 @@ content.innerHTML = `
 
 													</div>
 
-													<!-- Load Bludit Plugins: Page End -->
+													<!-- Page End -->
 
 												</div>
 												<hr>
 												<!-- Post -->
 												<div class="card my-5 border-0">
 
-													<!-- Load Bludit Plugins: Page Begin -->
+													<!-- Page Begin -->
 
 													<!-- Cover image -->
 
@@ -562,14 +562,14 @@ content.innerHTML = `
 
 													</div>
 
-													<!-- Load Bludit Plugins: Page End -->
+													<!-- Page End -->
 
 												</div>
 												<hr>
 												<!-- Post -->
 												<div class="card my-5 border-0">
 
-													<!-- Load Bludit Plugins: Page Begin -->
+													<!-- Page Begin -->
 
 													<!-- Cover image -->
 
@@ -590,14 +590,14 @@ content.innerHTML = `
 
 														</div>
 
-														<!-- Load Bludit Plugins: Page End -->
+														<!-- Page End -->
 
 													</div>
 													<hr>
 													<!-- Post -->
 													<div class="card my-5 border-0">
 
-														<!-- Load Bludit Plugins: Page Begin -->
+														<!-- Page Begin -->
 
 														<!-- Cover image -->
 
@@ -633,14 +633,14 @@ content.innerHTML = `
 
 														</div>
 
-														<!-- Load Bludit Plugins: Page End -->
+														<!-- Page End -->
 
 													</div>
 													<hr>
 													<!-- Post -->
 													<div class="card my-5 border-0">
 
-														<!-- Load Bludit Plugins: Page Begin -->
+														<!-- Page Begin -->
 
 														<!-- Cover image -->
 
@@ -662,14 +662,14 @@ content.innerHTML = `
 
 															</div>
 
-															<!-- Load Bludit Plugins: Page End -->
+															<!-- Page End -->
 
 														</div>
 														<hr>
 														<!-- Post -->
 														<div class="card my-5 border-0">
 
-															<!-- Load Bludit Plugins: Page Begin -->
+															<!-- Page Begin -->
 
 															<!-- Cover image -->
 
@@ -695,14 +695,14 @@ content.innerHTML = `
 
 															</div>
 
-															<!-- Load Bludit Plugins: Page End -->
+															<!-- Page End -->
 
 														</div>
 														<hr>
 														<!-- Post -->
 														<div class="card my-5 border-0">
 
-															<!-- Load Bludit Plugins: Page Begin -->
+															<!-- Page Begin -->
 
 															<!-- Cover image -->
 
@@ -731,14 +731,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 															</div>
 
-															<!-- Load Bludit Plugins: Page End -->
+															<!-- Page End -->
 
 														</div>
 														<hr>
 														<!-- Post -->
 														<div class="card my-5 border-0">
 
-															<!-- Load Bludit Plugins: Page Begin -->
+															<!-- Page Begin -->
 
 															<!-- Cover image -->
 
@@ -758,14 +758,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																</div>
 
-																<!-- Load Bludit Plugins: Page End -->
+																<!-- Page End -->
 
 															</div>
 															<hr>
 															<!-- Post -->
 															<div class="card my-5 border-0">
 
-																<!-- Load Bludit Plugins: Page Begin -->
+																<!-- Page Begin -->
 
 																<!-- Cover image -->
 
@@ -787,14 +787,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																	</div>
 
-																	<!-- Load Bludit Plugins: Page End -->
+																	<!-- Page End -->
 
 																</div>
 																<hr>
 																<!-- Post -->
 																<div class="card my-5 border-0">
 
-																	<!-- Load Bludit Plugins: Page Begin -->
+																	<!-- Page Begin -->
 
 																	<!-- Cover image -->
 
@@ -820,14 +820,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																		</div>
 
-																		<!-- Load Bludit Plugins: Page End -->
+																		<!-- Page End -->
 
 																	</div>
 																	<hr>
 																	<!-- Post -->
 																	<div class="card my-5 border-0">
 
-																		<!-- Load Bludit Plugins: Page Begin -->
+																		<!-- Page Begin -->
 
 																		<!-- Cover image -->
 
@@ -851,14 +851,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																			</div>
 
-																			<!-- Load Bludit Plugins: Page End -->
+																			<!-- Page End -->
 
 																		</div>
 																		<hr>
 																		<!-- Post -->
 																		<div class="card my-5 border-0">
 
-																			<!-- Load Bludit Plugins: Page Begin -->
+																			<!-- Page Begin -->
 
 																			<!-- Cover image -->
 
@@ -887,14 +887,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																			</div>
 
-																			<!-- Load Bludit Plugins: Page End -->
+																			<!-- Page End -->
 
 																		</div>
 																		<hr>
 																		<!-- Post -->
 																		<div class="card my-5 border-0">
 
-																			<!-- Load Bludit Plugins: Page Begin -->
+																			<!-- Page Begin -->
 
 																			<!-- Cover image -->
 
@@ -926,14 +926,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																			</div>
 
-																			<!-- Load Bludit Plugins: Page End -->
+																			<!-- Page End -->
 
 																		</div>
 																		<hr>
 																		<!-- Post -->
 																		<div class="card my-5 border-0">
 
-																			<!-- Load Bludit Plugins: Page Begin -->
+																			<!-- Page Begin -->
 
 																			<!-- Cover image -->
 
@@ -964,14 +964,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																					</div>
 
-																					<!-- Load Bludit Plugins: Page End -->
+																					<!-- Page End -->
 
 																				</div>
 																				<hr>
 																				<!-- Post -->
 																				<div class="card my-5 border-0">
 
-																					<!-- Load Bludit Plugins: Page Begin -->
+																					<!-- Page Begin -->
 
 																					<!-- Cover image -->
 
@@ -994,14 +994,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																							</div>
 
-																							<!-- Load Bludit Plugins: Page End -->
+																							<!-- Page End -->
 
 																						</div>
 																						<hr>
 																						<!-- Post -->
 																						<div class="card my-5 border-0">
 
-																							<!-- Load Bludit Plugins: Page Begin -->
+																							<!-- Page Begin -->
 
 																							<!-- Cover image -->
 
@@ -1024,14 +1024,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 
@@ -1061,14 +1061,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 																								<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1109,14 +1109,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 																								<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1163,14 +1163,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 
@@ -1225,14 +1225,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 																								<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1275,14 +1275,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 																								<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1315,14 +1315,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																								</div>
 
-																								<!-- Load Bludit Plugins: Page End -->
+																								<!-- Page End -->
 
 																							</div>
 																							<hr>
 																							<!-- Post -->
 																							<div class="card my-5 border-0">
 
-																								<!-- Load Bludit Plugins: Page Begin -->
+																								<!-- Page Begin -->
 
 																								<!-- Cover image -->
 																								<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1356,14 +1356,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																									</div>
 
-																									<!-- Load Bludit Plugins: Page End -->
+																									<!-- Page End -->
 
 																								</div>
 																								<hr>
 																								<!-- Post -->
 																								<div class="card my-5 border-0">
 
-																									<!-- Load Bludit Plugins: Page Begin -->
+																									<!-- Page Begin -->
 
 																									<!-- Cover image -->
 																									<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1403,14 +1403,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																									</div>
 
-																									<!-- Load Bludit Plugins: Page End -->
+																									<!-- Page End -->
 
 																								</div>
 																								<hr>
 																								<!-- Post -->
 																								<div class="card my-5 border-0">
 
-																									<!-- Load Bludit Plugins: Page Begin -->
+																									<!-- Page Begin -->
 
 																									<!-- Cover image -->
 																									<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1452,14 +1452,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																									</div>
 
-																									<!-- Load Bludit Plugins: Page End -->
+																									<!-- Page End -->
 
 																								</div>
 																								<hr>
 																								<!-- Post -->
 																								<div class="card my-5 border-0">
 
-																									<!-- Load Bludit Plugins: Page Begin -->
+																									<!-- Page Begin -->
 
 																									<!-- Cover image -->
 																									<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1485,14 +1485,14 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 
 																									</div>
 
-																									<!-- Load Bludit Plugins: Page End -->
+																									<!-- Page End -->
 
 																								</div>
 																								<hr>
 																								<!-- Post -->
 																								<div class="card my-5 border-0">
 
-																									<!-- Load Bludit Plugins: Page Begin -->
+																									<!-- Page Begin -->
 
 																									<!-- Cover image -->
 																									<img class="card-img mb-3 rounded-0" alt="Cover Image"
@@ -1520,7 +1520,7 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 																											<!-- "Read more" button -->
 
 																										</div>
-																										<!-- Load Bludit Plugins: Page End -->
+																										<!-- Page End -->
 																									</div>
 																									<hr>
 																									<!-- Pagination -->
