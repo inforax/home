@@ -1520,9 +1520,11 @@ header(<span class="hljs-string" style="margin: 0px; padding: 0px; border: 0px; 
 																											<!-- "Read more" button -->
 
 																										</div>
-
 																										<!-- Load Bludit Plugins: Page End -->
-
 																									</div>
 																									<hr>
+																									<!-- Sidebar -->
+    <div id="sidebar" class="sidebar">
+					<script src="./components/sidebar.js"></script>
+	</div>
 																								</div>`;
